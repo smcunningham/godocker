@@ -1,2 +1,2 @@
 # godocker
-Using docker to containerize simple go application
+godocker is a simple application that harnesses the powers of docker to containerize a simple go application.`
